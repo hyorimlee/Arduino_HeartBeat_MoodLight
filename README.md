@@ -1,4 +1,4 @@
-[Change to Korean](https://github.com/HYORIMLEE/Arduino_HeartBeat_MoodLight/blob/master/README.md)
+[Change to Korean](https://github.com/HYORIMLEE/Arduino_HeartBeat_MoodLight/blob/master/README_kr.md)
 # Arduino_HeartBeat_MoodLight 
 Arduino Mega, Neopixel ring, Bluetooth(HC 06 slave), Wifi modue(esp 8266)
 
